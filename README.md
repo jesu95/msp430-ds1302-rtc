@@ -1,5 +1,5 @@
 # msp430-ds1302-rtc
-Library to use the DS1302 RTC. This was tested on the launchpad of MSP430FR4133 but it can be easily adapted to any MCU. Developed in the IDE Code Composer Studio.
+Library to handle the DS1302 RTC. This was tested on the launchpad of MSP430FR4133 but it can be easily adapted to any MCU. Developed in the IDE Code Composer Studio.
 Note: This is a modified and adapted (for the MSP430R4133) version of the original library that I found on the internet (I don't know who the author is).
 
 ### Developed in:
